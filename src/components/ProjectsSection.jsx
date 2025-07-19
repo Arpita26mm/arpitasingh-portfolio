@@ -16,8 +16,8 @@ const projects = [
     description: "Personal portfolio built with React.js and TailwindCSS",
     image: "/projects/img7.png",
     tags: ["React.js", "TailwindCSS"],
-    demoUrl: "https://arpitasingh.netlify.app/",
-    githubUrl: "https://github.com/Arpita26mm/ArpitaPortfolio",
+    demoUrl: "https://arpitasingh995.netlify.app/",
+    githubUrl: "https://github.com/Arpita26mm/arpitasingh-portfolio",
   },
   {
     id: 3,
